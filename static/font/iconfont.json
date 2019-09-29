@@ -1,0 +1,30 @@
+{
+  "id": "1223787",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4230093",
+      "name": "保存",
+      "font_class": "baocun",
+      "unicode": "e699",
+      "unicode_decimal": 59033
+    },
+    {
+      "icon_id": "7670981",
+      "name": "打开树",
+      "font_class": "dakaishu1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "7672063",
+      "name": "关闭树",
+      "font_class": "guanbishu",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}
